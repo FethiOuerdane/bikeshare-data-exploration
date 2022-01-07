@@ -31,6 +31,8 @@ The program takes user input for one of the 3 cities mentioned earlier (e.g. Chi
 + Libraries: [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/), [time](https://docs.python.org/2/library/time.html), [tabulate](https://pypi.org/project/tabulate)
 
 
+I also have the project On Kaggle : [Link](https://www.kaggle.com/fetchii/data-exploration-bikeshare-data)
+
 ### Credits
 Here are some links to websites and blogposts I consulted:
 
